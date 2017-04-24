@@ -1,0 +1,6 @@
+[package]
+name = "function-scope"
+version = "0.1.0"
+authors = ["Charles Ellis <hamled@hamled.name>"]
+
+[dependencies]
